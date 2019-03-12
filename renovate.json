@@ -1,5 +1,27 @@
 {
   "extends": [
     "config:base"
-  ]
+  ],
+  "dependencies": {
+    "automerge": true,
+    "major": {
+      "automerge": false
+    }
+  },
+  "devDependencies": {
+    "automerge": true,
+    "major": {
+      "automerge": false
+    }
+  },
+  "separatePatchReleases": true,
+  "packageRules": [
+    {
+      "depTypeList": [
+        "devDependencies"
+      ],
+      "automerge": false
+    }
+  ],
+  "statusCheckVerify": true
 }
