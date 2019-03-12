@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component => Email should match snapshot 1`] = `
+<form>
+  <div>
+    <label>
+      Email
+    </label>
+    <div>
+      <input
+        name="email"
+        placeholder="Email"
+        type="email"
+        value=""
+      />
+    </div>
+  </div>
+</form>
+`;

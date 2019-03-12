@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component => Age should match snapshot 1`] = `
+<form>
+  <div>
+    <label>
+      Age
+    </label>
+    <div>
+      <input
+        name="age"
+        placeholder="Age"
+        type="number"
+        value=""
+      />
+    </div>
+  </div>
+</form>
+`;

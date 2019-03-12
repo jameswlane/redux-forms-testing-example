@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component => RenderField should match snapshot 1`] = `
+<div>
+  <label>
+    MOCK_LABEL
+  </label>
+  <div>
+    <input
+      name="MOCK_NAME"
+      placeholder="MOCK_LABEL"
+      type="number"
+    />
+  </div>
+</div>
+`;
