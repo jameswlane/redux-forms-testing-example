@@ -27,6 +27,6 @@
   ],
   "devDependencies": {
     "chance": "1.0.18",
-    "react-testing-library": "6.0.4"
+    "react-testing-library": "6.1.2"
   }
 }
