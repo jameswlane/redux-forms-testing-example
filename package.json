@@ -8,7 +8,7 @@
     "react-redux": "6.0.1",
     "react-scripts": "3.0.1",
     "redux": "4.0.1",
-    "redux-form": "8.2.0"
+    "redux-form": "8.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
